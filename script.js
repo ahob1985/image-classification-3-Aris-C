@@ -1,4 +1,4 @@
-// Author:
+// Author: Aris
 
 // Global UI Variables
 //let canvasDiv;
